@@ -1,6 +1,6 @@
 ## bootstrap 4.1 pagnation
 
-View live (  https://luckmoshy.github.io/luckmoshypagnation.js/) to maintain and preview the content for your website in .
+View live (  https://luckmoshy.github.io/luckmoshypagnation.js/)  .
 
 Luckmoshy jQuery pagnation plugin provide simple yet fully customisable pagination. . 
 
@@ -20,7 +20,7 @@ Adding Pagination to your Website
 
 
 
-### 
+### Bootstrap Pagnation
 
 <div class="col-md-6 order-md-1 text-center text-md-left pr-md-5">
         <h1 class="mb-3 bd-text-purple-bright">Bootstrap</h1>
