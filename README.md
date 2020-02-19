@@ -1,6 +1,6 @@
 ## bootstrap 4.1 pagnation
 
-You can use the [editor on GitHub](https://github.com/luckmoshy/luckmoshypagnation.js/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+View live (  https://luckmoshy.github.io/luckmoshypagnation.js/) to maintain and preview the content for your website in .
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
