@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## bootstrap 4.1 pagnation
 
 You can use the [editor on GitHub](https://github.com/luckmoshy/luckmoshypagnation.js/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 
 
 <div class="col-md-6 order-md-1 text-center text-md-left pr-md-5">
         <h1 class="mb-3 bd-text-purple-bright">Bootstrap</h1>
