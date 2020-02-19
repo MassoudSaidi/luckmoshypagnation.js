@@ -41,10 +41,7 @@ Luckmoshy jQuery pagnation plugin  provide simple yet fully customisable paginat
           </div>
         
       
-        <p class="text-muted mb-0">
-          Currently v1.0.0
-        </p>
-      </div>
+       
 
 ### Support or Contact
 
