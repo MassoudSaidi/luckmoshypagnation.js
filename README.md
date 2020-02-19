@@ -39,12 +39,10 @@ Luckmoshy jQuery pagnation plugin  provide simple yet fully customisable paginat
           <div class="col-md px-2">
             <a href="pagnation.html" class="btn btn-lg btn-secondary w-100 mb-3" onclick="ga('send', 'event', 'Jumbotron actions', 'Get started', 'Get started');">Documetation</a>
           </div>
-          <div class="col-md px-2">
-            <a href="/docs/4.3/getting-started/download/" class="btn btn-lg btn-outline-secondary w-100 mb-3" onclick="ga('send', 'event', 'Jumbotron actions', 'Download', 'Download 4.3.1');">Download</a>
-          </div>
-        </div>
+        
+      
         <p class="text-muted mb-0">
-          Currently v4.3.1
+          Currently v1.0.0
         </p>
       </div>
 
