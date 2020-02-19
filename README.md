@@ -20,10 +20,10 @@ Adding Pagination to your Website
 
 
 
-### Bootstrap Pagnation
+### 
 
 <div class="col-md-6 order-md-1 text-center text-md-left pr-md-5">
-        <h1 class="mb-3 bd-text-purple-bright">Bootstrap</h1>
+        <h1 class="mb-3 bd-text-purple-bright">Bootstrap Pagnation</h1>
         <p class="lead">
 Luckmoshy jQuery pagnation plugin  provide simple yet fully customisable pagination. </p>
         <p class="lead mb-4">
