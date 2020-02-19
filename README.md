@@ -2,11 +2,11 @@
 
 View live (  https://luckmoshy.github.io/luckmoshypagnation.js/) to maintain and preview the content for your website in .
 
-Luckmoshy Jquery Pagination is built completely with Jquery elements so screen readers can announce the number of available links. Use a wrapping element to identify it as a navigation section to screen readers and other assistive technologies. 
+Luckmoshy jQuery pagnation plugin provide simple yet fully customisable pagination. . 
 
-### Markdown
+### Luckmoshypagnation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Adding Pagination to your Website
 
 <figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;nav</span> <span class="na">aria-label=</span><span class="s">"Page navigation example"</span><span class="nt">&gt;</span>
   <span class="nt">&lt;ul</span> <span class="na">class=</span><span class="s">"pagination"</span><span class="nt">&gt;</span>
