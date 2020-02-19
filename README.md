@@ -2,7 +2,7 @@
 
 View live (  https://luckmoshy.github.io/luckmoshypagnation.js/) to maintain and preview the content for your website in .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Luckmoshy Jquery Pagination is built completely with Jquery elements so screen readers can announce the number of available links. Use a wrapping element to identify it as a navigation section to screen readers and other assistive technologies. 
 
 ### Markdown
 
@@ -18,7 +18,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
   <span class="nt">&lt;/ul&gt;</span>
 <span class="nt">&lt;/nav&gt;</span></code></pre></figure>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### 
 
