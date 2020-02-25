@@ -18,6 +18,8 @@ Adding Pagination to your Website
   <span class="nt">&lt;/ul&gt;</span>
 <span class="nt">&lt;/nav&gt;</span></code></pre></figure>
 <br/>
+#<p>Initilizing</p>
+
 <figure><pre><code>
 <script>
 $(document).ready(function() {
