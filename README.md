@@ -88,12 +88,12 @@ Luckmoshy jQuery pagnation plugin  provide simple yet fully customisable paginat
         </nav></div>
 		<div class="row mx-n2 mt-5 mb-5 py-5">
           <div class="col-md px-2">
-            <a href="pagnation.html" class="btn btn-lg btn-secondary w-100 mb-3" onclick="ga('send', 'event', 'Jumbotron actions', 'Get started', 'Get started');">Documetation</a>
+            <a href=" https://luckmoshy.github.io/luckmoshypagnation.js" class="btn btn-lg btn-secondary w-100 mb-3" onclick="ga('send', 'event', 'Jumbotron actions', 'Get started', 'Get started');">Documetation</a>
           </div>
         
       
        
 
-### Support or Contact
+### Know more about
 
-Having trouble with Pages? Check out our [documentation](https://luckmoshy.github.io/luckmoshypagnation.js/) or [contact support](https://luckmoshy.github.io/) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation]( https://luckmoshy.github.io/luckmoshypagnation.js) .
