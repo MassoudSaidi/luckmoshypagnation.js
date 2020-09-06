@@ -1,11 +1,7 @@
 /*!
  * jQuery pagination plugin v1.4
- * http://esimakin.github.io/luckmoshy-pagination/
- *
- * Copyright 2014-2016, Eugene Simakin
- * Released under Apache 2.0 license
- * http://apache.org/licenses/LICENSE-2.0.html
- */
+ * http://eluckmoshy.github.io/luckmoshy-pagination/
+*/
 (function ($, window, document, undefined) {
 
     'use strict';
